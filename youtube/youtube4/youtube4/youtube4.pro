@@ -10,12 +10,15 @@ CONFIG += c++17
 
 SOURCES += \
     main.cpp \
+    secondwindow.cpp \
     youtube4.cpp
 
 HEADERS += \
+    secondwindow.h \
     youtube4.h
 
 FORMS += \
+    secondwindow.ui \
     youtube4.ui
 
 # Default rules for deployment.

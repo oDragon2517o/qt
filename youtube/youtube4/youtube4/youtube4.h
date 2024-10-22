@@ -2,6 +2,7 @@
 #define YOUTUBE4_H
 
 #include <QMainWindow>
+#include "secondwindow.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -17,7 +18,11 @@ public:
     youtube4(QWidget *parent = nullptr);
     ~youtube4();
 
+private slots:
+    void on_pushButton_clicked();
+
 private:
     Ui::youtube4 *ui;
+    SecondWindow *window;
 };
 #endif // YOUTUBE4_H
