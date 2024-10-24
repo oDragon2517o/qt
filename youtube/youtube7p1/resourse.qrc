@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/@EnrollmentToastIcon.png</file>
+        <file>img/@language_notification_icon.png</file>
+        <file>img/@optionalfeatures.png</file>
+        <file>img/@VpnToastIcon.png</file>
+    </qresource>
+</RCC>
