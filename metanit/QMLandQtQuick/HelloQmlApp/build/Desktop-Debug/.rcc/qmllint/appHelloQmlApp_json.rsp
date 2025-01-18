@@ -1,0 +1,12 @@
+--bare
+-I
+C:/Rab/qt/metanit/QMLandQtQuick/HelloQmlApp/build/Desktop-Debug
+-I
+C:/Qt/6.8.1/msvc2022_64/qml
+--resource
+C:/Rab/qt/metanit/QMLandQtQuick/HelloQmlApp/build/Desktop-Debug/.qt/rcc/qmake_HelloQmlApp.qrc
+--resource
+C:/Rab/qt/metanit/QMLandQtQuick/HelloQmlApp/build/Desktop-Debug/.qt/rcc/appHelloQmlApp_raw_qml_0.qrc
+C:/Rab/qt/metanit/QMLandQtQuick/HelloQmlApp/Main.qml
+--json
+C:/Rab/qt/metanit/QMLandQtQuick/HelloQmlApp/build/Desktop-Debug/appHelloQmlApp_qmllint.json

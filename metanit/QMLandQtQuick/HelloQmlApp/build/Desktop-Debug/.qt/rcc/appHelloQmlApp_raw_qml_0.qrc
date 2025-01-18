@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/HelloQmlApp/">
+    <file alias="Main.qml">C:/Rab/qt/metanit/QMLandQtQuick/HelloQmlApp/Main.qml</file>
+  </qresource>
+</RCC>
+

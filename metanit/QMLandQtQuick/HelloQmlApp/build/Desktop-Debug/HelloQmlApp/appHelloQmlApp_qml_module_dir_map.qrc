@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/HelloQmlApp">C:/Rab/qt/metanit/QMLandQtQuick/HelloQmlApp/build/Desktop-Debug/HelloQmlApp</file>
+
+  </qresource>
+</RCC>

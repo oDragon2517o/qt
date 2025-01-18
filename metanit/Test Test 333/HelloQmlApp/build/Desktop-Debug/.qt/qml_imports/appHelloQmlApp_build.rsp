@@ -1,0 +1,14 @@
+-rootPath
+C:/Rab/qt/metanit/Test Test 333/HelloQmlApp
+-cmake-output
+-output-file
+C:/Rab/qt/metanit/Test Test 333/HelloQmlApp/build/Desktop-Debug/.qt/qml_imports/appHelloQmlApp_build.cmake
+-importPath
+C:/Rab/qt/metanit/Test Test 333/HelloQmlApp/build/Desktop-Debug/HelloQmlApp
+-importPath
+C:/Rab/qt/metanit/Test Test 333/HelloQmlApp/build/Desktop-Debug
+-importPath
+C:/Qt/6.8.1/msvc2022_64/qml
+-qrcFiles
+C:/Rab/qt/metanit/Test Test 333/HelloQmlApp/build/Desktop-Debug/.qt/rcc/qmake_HelloQmlApp.qrc
+C:/Rab/qt/metanit/Test Test 333/HelloQmlApp/build/Desktop-Debug/.qt/rcc/appHelloQmlApp_raw_qml_0.qrc

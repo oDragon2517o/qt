@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/HelloQmlApp">
+    <file alias="qmldir">C:/Rab/qt/metanit/Глава 3. QML и Qt Quick/Введение в QML и Qt Quick. Создание проекта/HelloQmlApp/HelloQmlApp/build/Desktop-Debug/HelloQmlApp/qmldir</file>
+  </qresource>
+</RCC>
+
